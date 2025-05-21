@@ -1,2 +1,3 @@
 # enigma_machine
-Python project exploring the enigma API.
+
+Python project exploring the web scraping.
